@@ -9,6 +9,6 @@
   - Big Data: Databricks, Microsoft Azure, SnowFlake
 
  - Projects:
-  - Finacial Loan Bank: this project uses customer segmentation and ML models to predict if a customer will accept a financial loan for a campaign.
-  - Time Series: this project appies ARIMA and ADF test to build a time series model to analyze the trend and seasonality for a restaurant customer traffic for two years. 
-  - NLP-RNN: this project an unsuperived NLP project analyzing patients' mental health through conversations between the patients and the therapists.
+    - Finacial Loan Bank: this project uses customer segmentation and ML models to predict if a customer will accept a financial loan for a campaign.
+    - Time Series: this project appies ARIMA and ADF test to build a time series model to analyze the trend and seasonality for a restaurant customer traffic for two years. 
+    - NLP-RNN: this project an unsuperived NLP project analyzing patients' mental health through conversations between the patients and the therapists.
