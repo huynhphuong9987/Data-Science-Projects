@@ -10,5 +10,5 @@
 
  - Projects:
     - ![Finacial Loan Bank](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/Financial_Bank_PersonalLoan): this project uses customer segmentation and ML models to predict if a customer will accept a financial loan for a campaign.
-    - Time Series: this project appies ARIMA and ADF test to build a time series model to analyze the trend and seasonality for a restaurant customer traffic for two years. 
-    - NLP-RNN: this project an unsuperived NLP project analyzing patients' mental health through conversations between the patients and the therapists.
+    - ![Time Series](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/NLP-RNN/Time Series): this project appies ARIMA and ADF test to build a time series model to analyze the trend and seasonality for a restaurant customer traffic for two years. 
+    - ![NLP-RNN](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/NLP-RNN): this project an unsuperived NLP project analyzing patients' mental health through conversations between the patients and the therapists.
