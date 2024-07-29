@@ -9,6 +9,10 @@
   - Big Data: Databricks, Microsoft Azure, SnowFlake
 
  - Projects:
-    - ![Finacial Loan Bank](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/Financial_Bank_PersonalLoan): this project uses customer segmentation and ML models to predict if a customer will accept a financial loan for a campaign.
+    - [Finacial Loan Bank](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/Financial_Bank_PersonalLoan): this project uses customer segmentation and ML models to predict if a customer will accept a financial loan for a campaign.
     - ![Time Series](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/TimeSeries): this project appies ARIMA and ADF test to build a time series model to analyze the trend and seasonality for a restaurant customer traffic for two years. 
     - ![NLP-RNN](https://github.com/huynhphuong9987/Data-Science-Projects/tree/main/NLP-RNN): this project an unsuperived NLP project analyzing patients' mental health through conversations between the patients and the therapists.
+    - ![
+
+
+https://github.com/huynhphuong9987/Data-Science-Projects/blob/main/CC_Fraud_detection/fraud_detection.ipynb
